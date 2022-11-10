@@ -1,5 +1,5 @@
 # University-HTML
-HTML puro site universitario, usando html puro!
+site universitario, usando Apenas HTML!
 
 # Index
 ![image](https://user-images.githubusercontent.com/95008802/201192817-e78c1fc4-75cd-456f-bcf6-cd4d807144ba.png)
